@@ -1,6 +1,6 @@
 ****Vehicle Rental Management System ****
 
-Live URL: https://assignment2-fawn-theta.vercel.app/
+Live URL: https://assignment2-one-snowy.vercel.app/
 
 **Key Features**
 
